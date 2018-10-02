@@ -1,0 +1,1 @@
+set access_token environment variable before running any of the scripts
